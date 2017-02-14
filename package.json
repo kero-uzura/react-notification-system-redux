@@ -38,13 +38,13 @@
     "react-addons-test-utils": "^15.3.1",
     "react-component-gulp-tasks": "git+https://github.com/gor181/react-component-gulp-tasks.git",
     "react-dom": "^0.14 || ^15.0.0-rc || ^15.0",
-    "react-notification-system": "^0.2.7",
+    "react-notification-system": "kero-uzura/react-notification-system",
     "react-redux": "^4.4.5",
     "redux": "^3.5.2",
     "sinon": "^1.17.6"
   },
   "dependencies": {
-    "react-notification-system": "^0.2.7"
+    "react-notification-system": "kero-uzura/react-notification-system"
   },
   "peerDependencies": {
     "react": "^0.14 || ^15.0.0-rc || ^15.0",
